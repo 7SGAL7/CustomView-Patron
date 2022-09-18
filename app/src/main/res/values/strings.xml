@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SmileyRatingExample</string>
+    <string name="rate">Danos una puntuacion</string>
+    <string name="review">Escribe tu review</string>\
+    <string name="submit">Enviar</string>
+</resources>
